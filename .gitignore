@@ -58,3 +58,7 @@ Resources/Section_30_LinnearDiscriminantAn/mnist.csv
 Resources/Section_30/mnist.csv
 Resources/Section_31/2019-world-happiness-report.csv
 Section_32_KmeansClusterinAnal/output/happinessrel0.png
+Section_33_KNearestNbour/output/Penguins_relplot_testset.png
+Section_33_KNearestNbour/output/Penguins_relplot_trainSetGrid.png
+Section_33_KNearestNbour/output/Wine_conf_mat_X_test.png
+Section_33_KNearestNbour/output/Wine_conf_mat.png
