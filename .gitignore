@@ -62,3 +62,7 @@ Section_33_KNearestNbour/output/Penguins_relplot_testset.png
 Section_33_KNearestNbour/output/Penguins_relplot_trainSetGrid.png
 Section_33_KNearestNbour/output/Wine_conf_mat_X_test.png
 Section_33_KNearestNbour/output/Wine_conf_mat.png
+Section_34_SupportVectorMachine/output/ConfusionMatixCrowded.png
+Section_34_SupportVectorMachine/output/EigenFaces.png
+Section_34_SupportVectorMachine/output/FacesPredVsActual.png
+Section_34_SupportVectorMachine/output/PicsSubplot.png
