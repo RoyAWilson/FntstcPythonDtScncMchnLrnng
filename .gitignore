@@ -66,3 +66,6 @@ Section_34_SupportVectorMachine/output/ConfusionMatixCrowded.png
 Section_34_SupportVectorMachine/output/EigenFaces.png
 Section_34_SupportVectorMachine/output/FacesPredVsActual.png
 Section_34_SupportVectorMachine/output/PicsSubplot.png
+Section_36_Neural_Networks/output/facesPlot.png
+Section_36_Neural_Networks/output/EigenFaces.png
+Section_35_DexisionTreeRanomForest/output/conf_mat_tree.png
